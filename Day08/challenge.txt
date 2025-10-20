@@ -1,0 +1,23 @@
+✓ Which exercices felt easy? Which ones taught you the most?
+- I found that the last exercices of day 3 and 4 was a bit more difficult than the others
+
+✓ Which exercices were challenging? Which one was the biggest challenge?
+- I like search solution to make maximum one liners code
+
+✓ Which exercices would you like to revisit? Which one did you fail?
+- I would like revisit challenges because they are found
+
+✓ Was there a moment when something ”clicked” for you?
+- I learned somme tips everyday that's cool !
+
+✓ Find someone to team with.
+- I have a group of 3 others friends to work
+
+✓ Choose an exercise you both like to revisit Then, just do it again!
+- We revisited challenges of each days
+
+✓ Identify an exercise you both failed or didn't have time to try. Then, just do it!
+- I will retry the end of day 3 and 4
+
+Finally, you must analyze, comment and improve each other's code
+- Done
